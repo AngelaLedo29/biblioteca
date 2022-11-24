@@ -43,6 +43,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # Aplicaciones nuestras
     'catalog.apps.CatalogConfig',
+    'mundial.apps.MundialConfig',
+    'biblioteca.apps.BibliotecaConfig',
     'debug_toolbar',
 ]
 
